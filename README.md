@@ -3,6 +3,9 @@
 
 **SeedFlora/SeedFlora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Github stats](https://github-readme-stats.vercel.app/api?username=SeedFlora&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
