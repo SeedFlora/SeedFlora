@@ -5,6 +5,7 @@
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Github stats](https://github-readme-stats.vercel.app/api?username=SeedFlora&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeedFlora)](https://github.com/SeedFlora/github-readme-stats)
 
 Here are some ideas to get you started:
 
