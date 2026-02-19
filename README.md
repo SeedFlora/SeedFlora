@@ -1,108 +1,113 @@
-Budi Juarto
+<div align="center">
 
-AI Engineer | Machine Learning | Reproducible AI Systems
+# Budi Juarto  
+### AI Engineer | Machine Learning | Reproducible Systems
 
-👋 About Me
+<img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=7EB6F7&center=true&vCenter=true&width=600&lines=Computer+Vision+%7C+NLP+%7C+Time-Series;Production-ready+AI+Systems;Dockerized+%26+Reproducible+ML;Edge+AI+%26+Lightweight+Inference" />
 
-AI engineer and lecturer specializing in Computer Vision, NLP, and Time-Series Modeling.
-I build end-to-end AI systems from problem definition to deployment, with strong emphasis on reproducibility, evaluation metrics, and production constraints.
+</div>
 
-🔬 Research-driven development (CV / NLP / Recommender Systems)
+---
 
-🤖 Edge AI & lightweight inference (YOLO + TensorFlow Lite)
+## 🚀 About Me
 
-📊 Experimental design & model evaluation (Precision, Recall, ROC, HitRate@K)
+AI Engineer & Lecturer building **end-to-end ML systems** from research to deployment.
 
-🐳 Docker-based reproducible ML pipelines
+I focus on:
 
-📈 Data-to-dashboard deployment (Streamlit / Flask)
+- 📊 Experiment-driven modeling  
+- 🐳 Reproducible pipelines (Docker)  
+- ⚡ Efficient inference & edge AI  
+- 📈 Data-to-dashboard system design  
 
-🧠 Core Expertise
-Machine Learning
+---
 
-PyTorch, TensorFlow, Scikit-learn
+## 🧠 Technical Stack
 
-Hugging Face Transformers (BERT / SBERT)
+### 🔬 Machine Learning
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat)
+![YOLO](https://img.shields.io/badge/YOLOv8-111111?style=flat)
 
-YOLOv7 / YOLOv8
+- BERT / SBERT
+- LSTM / Hybrid Recommender
+- Precision / Recall / ROC / HitRate@K
 
-LSTM / Hybrid Recommender Models
+---
 
-Engineering & Backend
+### 🏗 Engineering
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat)
+![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-Python (Advanced)
+- REST API Design
+- Model Packaging
+- Linux-based deployment
+- CI-ready repository structure
 
-SQL (PostgreSQL / MySQL)
+---
 
-Flask / FastAPI
+## 🏆 Highlight Projects
 
-REST API Design
+### 🔍 Hybrid Recommender (NCF + SBERT)
+- Integrated semantic embeddings into collaborative filtering
+- Improved HitRate@10 over baseline
+- HuggingFace + PyTorch implementation
+- Modular pipeline architecture
 
-Deployment & DevOps
+---
 
-Docker
+### 🎥 Real-Time Object Detection (YOLOv8 + TFLite)
+- Edge deployment optimized model
+- Android inference-ready
+- Lightweight & performance-aware
 
-Linux
+---
 
-GitHub Actions (CI basics)
+### 📈 Sentiment-driven Forecasting
+- IndoBERT sentiment extraction
+- Multi-feature time-series LSTM integration
+- Data normalization & experiment tracking
 
-Model packaging & reproducibility management
+---
 
-📌 Featured Projects
-🔍 Hybrid Recommender System (NCF + SBERT)
+## 📊 GitHub Analytics
 
-Combined Neural Collaborative Filtering with Sentence-BERT embeddings
+<div align="center">
 
-Evaluated using Precision / Recall / ROC / HitRate@10
+![Stats](https://github-readme-stats.vercel.app/api?username=SeedFlora&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeedFlora&layout=compact&theme=tokyonight&hide_border=true)
+![Streak](https://github-readme-streak-stats.herokuapp.com?user=SeedFlora&theme=tokyonight&hide_border=true)
 
-Improved HitRate compared to baseline NCF
+</div>
 
-Built with Hugging Face + PyTorch
+---
 
-🎥 Real-Time Object Detection (YOLOv8 + TFLite)
+## 🌍 Languages
 
-Coffee bean quality detection system
+- 🇯🇵 Japanese – JLPT N2 (near passing, re-attempt planned)
+- 🇬🇧 English – TOEFL PBT 567
+- 🇮🇩 Indonesian – Native
 
-Model optimized for Android deployment
+---
 
-Lightweight inference using TensorFlow Lite
+## 🎯 Engineering Philosophy
 
-📈 Sentiment-Driven Stock Forecasting
+> Accuracy is not enough.  
+> A model must be **reproducible, deployable, and maintainable.**
 
-IndoBERT sentiment extraction
+I aim to build AI systems that survive real-world constraints:
+- inference speed
+- resource efficiency
+- long-term maintainability
+- experiment transparency
 
-Integrated with LSTM time-series model
+---
 
-Multi-source feature engineering
+<div align="center">
 
-🌐 ML Dashboard Deployment
+⚡ “Bridging research and production AI systems.”
 
-Model wrapped in REST API
-
-Containerized with Docker
-
-Streamlit-based visualization layer
-
-📊 GitHub Stats
-
-🌏 Languages
-
-Japanese: JLPT N2 (near passing score, re-attempt planned)
-
-English: TOEFL PBT 567
-
-Indonesian: Native
-
-🎯 Career Direction
-
-Focused on building production-ready AI systems that balance:
-
-Accuracy
-
-Inference efficiency
-
-Maintainability
-
-Reproducibility
-
-Interested in AI applications in industry-scale systems, embedded AI, and data-driven decision support.
+</div>
