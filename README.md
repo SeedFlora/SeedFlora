@@ -1,79 +1,108 @@
-<!-- 🌱 Seed's GitHub Profile 🌱 -->
+Budi Juarto
 
-<div align="center">
+AI Engineer | Machine Learning | Reproducible AI Systems
 
-# ヤッホー、シードだよ 🌸
+👋 About Me
 
-</div>
+AI engineer and lecturer specializing in Computer Vision, NLP, and Time-Series Modeling.
+I build end-to-end AI systems from problem definition to deployment, with strong emphasis on reproducibility, evaluation metrics, and production constraints.
 
----
+🔬 Research-driven development (CV / NLP / Recommender Systems)
 
-### 🌱 私について
+🤖 Edge AI & lightweight inference (YOLO + TensorFlow Lite)
 
-```yaml
-名前: シード (Seed)
-本名: フローラ (Flora)
-所属: オボル・スクワッド
-身長: 153cm ✨
-誕生日: 11月22日 🎂
-属性: 電気 ⚡
-```
+📊 Experimental design & model evaluation (Precision, Recall, ROC, HitRate@K)
 
-> *「プロキシは...私たちの『同志』のようなもの。四つ葉のクローバーや菜の花のように。」* 🍀
+🐳 Docker-based reproducible ML pipelines
 
----
+📈 Data-to-dashboard deployment (Streamlit / Flask)
 
-### 💫 性格
+🧠 Core Expertise
+Machine Learning
 
-| 特徴 | 説明 |
-|:---:|:---|
-| 🔧 | 機械に詳しい・ロボットをいじるのが好き |
-| 🌙 | 神秘的で静かな性格 |
-| 💭 | 哲学的な考え方をする |
-| 🤖 | シードシニアと一緒にいるのが好き |
-| 🌸 | 優しい声で話す |
+PyTorch, TensorFlow, Scikit-learn
 
----
+Hugging Face Transformers (BERT / SBERT)
 
-### 📊 GitHub Stats
+YOLOv7 / YOLOv8
 
-<div align="center">
+LSTM / Hybrid Recommender Models
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SeedFlora&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&icon_color=7EB6F7&title_color=7EB6F7&text_color=a9b1d6)
+Engineering & Backend
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeedFlora&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7EB6F7&text_color=a9b1d6)](https://github.com/SeedFlora)
+Python (Advanced)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SeedFlora&theme=tokyonight&hide_border=true&background=1a1b27&ring=7EB6F7&fire=FFB86C&currStreakLabel=7EB6F7)](https://github.com/SeedFlora)
+SQL (PostgreSQL / MySQL)
 
-</div>
+Flask / FastAPI
 
----
+REST API Design
 
-### 🛠️ スキル
+Deployment & DevOps
 
-<div align="center">
+Docker
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+Linux
 
-</div>
+GitHub Actions (CI basics)
 
----
+Model packaging & reproducibility management
 
-### 🌸 現在の活動
+📌 Featured Projects
+🔍 Hybrid Recommender System (NCF + SBERT)
 
-- 🔭 **作業中:** 機械制御システムの開発
-- 🌱 **学習中:** ニューラルネットワークとロボティクス
-- 👯 **コラボ希望:** ロボット工学プロジェクト
-- 💬 **聞いてね:** 機械、電気工学、メカについて
-- ⚡ **豆知識:** シードシニアは自分の意思を持っています 🤖💙
+Combined Neural Collaborative Filtering with Sentence-BERT embeddings
 
----
+Evaluated using Precision / Recall / ROC / HitRate@10
 
-<div align="center">
+Improved HitRate compared to baseline NCF
 
-*「私たちは皆、繋がっている...機械も、人間も。」* ⚡🌱
+Built with Hugging Face + PyTorch
 
-</div>
+🎥 Real-Time Object Detection (YOLOv8 + TFLite)
+
+Coffee bean quality detection system
+
+Model optimized for Android deployment
+
+Lightweight inference using TensorFlow Lite
+
+📈 Sentiment-Driven Stock Forecasting
+
+IndoBERT sentiment extraction
+
+Integrated with LSTM time-series model
+
+Multi-source feature engineering
+
+🌐 ML Dashboard Deployment
+
+Model wrapped in REST API
+
+Containerized with Docker
+
+Streamlit-based visualization layer
+
+📊 GitHub Stats
+
+🌏 Languages
+
+Japanese: JLPT N2 (near passing score, re-attempt planned)
+
+English: TOEFL PBT 567
+
+Indonesian: Native
+
+🎯 Career Direction
+
+Focused on building production-ready AI systems that balance:
+
+Accuracy
+
+Inference efficiency
+
+Maintainability
+
+Reproducibility
+
+Interested in AI applications in industry-scale systems, embedded AI, and data-driven decision support.
