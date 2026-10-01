@@ -1,131 +1,182 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Budi%20Juarto&fontAlign=50&fontAlignY=40&color=0:1a1b27,100:2f3b70&fontColor=ffffff&desc=AI%20Engineer%20%7C%20Machine%20Learning%20%7C%20Reproducible%20AI%20Systems&descAlign=50&descAlignY=60" />
+<img width="100%" alt="Budi Juarto — AI Engineer, Researcher, and Lecturer" src="https://capsule-render.vercel.app/api?type=rounded&height=210&color=0:0D1117,55:172554,100:155E75&text=Budi%20Juarto&fontColor=F8FAFC&fontSize=58&fontAlign=50&fontAlignY=43&desc=AI%20ENGINEER%20%20%7C%20%20RESEARCHER%20%20%7C%20%20LECTURER&descSize=16&descAlign=50&descAlignY=66" />
+
+<h3>Building AI that works beyond the notebook.</h3>
+
+<p>Computer Vision &nbsp;·&nbsp; NLP &nbsp;·&nbsp; Time-Series &nbsp;·&nbsp; Reproducible ML</p>
 
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2600&pause=600&color=7EB6F7&center=true&vCenter=true&width=700&lines=Computer+Vision+%E2%80%A2+NLP+%E2%80%A2+Time-Series;End-to-End+AI%3A+Design+%E2%86%92+Build+%E2%86%92+Evaluate+%E2%86%92+Deploy;Dockerized+Pipelines+for+Reproducibility;Edge+AI+%2F+Lightweight+Inference+%28YOLO+%2B+TFLite%29;Research-to-Production+Mindset" />
+  <a href="https://budijuarto.com"><img alt="Visit my portfolio" src="https://img.shields.io/badge/PORTFOLIO-155E75?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="mailto:budi.juarto@gmail.com"><img alt="Email Budi Juarto" src="https://img.shields.io/badge/LET'S_TALK-1E293B?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/SeedFlora?tab=repositories"><img alt="Explore my repositories" src="https://img.shields.io/badge/EXPLORE_MY_WORK-1E293B?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 <p>
-  <a href="https://github.com/SeedFlora">
-    <img src="https://img.shields.io/badge/GitHub-SeedFlora-171515?style=for-the-badge&logo=github" />
-  </a>
-  <img src="https://img.shields.io/badge/AI-Engineer-7EB6F7?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Reproducible-Dockerized-2EA043?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Japan-Ready-FFB86C?style=for-the-badge" />
+  <img alt="Japanese: JLPT N2 passed" src="https://img.shields.io/badge/Japanese-JLPT_N2_Passed-0F766E?style=flat-square&labelColor=1E293B" />
+  <img alt="Lecturer at BINUS University Bandung" src="https://img.shields.io/badge/Lecturer-BINUS_Bandung-0369A1?style=flat-square&labelColor=1E293B" />
+</p>
+
+<p>
+  <a href="#about">About</a> &nbsp;/&nbsp;
+  <a href="#selected-projects">Projects</a> &nbsp;/&nbsp;
+  <a href="#toolbox">Toolbox</a> &nbsp;/&nbsp;
+  <a href="#contact">Contact</a>
 </p>
 
 </div>
 
----
+<br>
 
-## 👋 About Me
+## About
 
-AI engineer & lecturer specializing in **Computer Vision, NLP, and Time-Series Modeling**.  
-I build **end-to-end AI systems** from problem definition → implementation → evaluation → deployment, with emphasis on:
+I'm **Budi Juarto**, an AI engineer, researcher, and Computer Science lecturer at **BINUS University Bandung, Indonesia**.
 
-- 🧪 Experimental design & model evaluation (Precision, Recall, ROC, HitRate@K)
-- 🐳 Reproducible pipelines (Docker-first)
-- ⚡ Production constraints (efficiency, maintainability, reliability)
-- 📊 Data → Dashboard → Application delivery
+I work across **computer vision, natural language processing, and time-series modeling**, connecting research experiments with usable applications. My interests range from image recognition and on-device inference to sentiment-aware forecasting and recommendation systems.
 
----
+My engineering priorities are **honest evaluation, reproducible experiments, and maintainable deployment**. I care about the complete system: the data, the model, the interface, and how it runs outside the development environment.
 
-## 🧠 Focus Areas
+> **Research informs the model. Engineering makes it usable.**
 
-- **Computer Vision:** YOLOv7 / YOLOv8, real-time detection, edge deployment  
-- **NLP / Transformers:** BERT / SBERT, semantic similarity, sentiment analysis  
-- **Time-Series:** LSTM-based forecasting, multi-source feature integration  
-- **Recommender Systems:** hybrid collaborative + content embedding models  
-- **Deployment:** Streamlit dashboards, Flask/FastAPI APIs, Dockerized delivery  
+## Selected Projects
 
----
+A selection of my applied AI, research, and software projects. Each repository provides its own implementation details and setup instructions where available.
 
-## 🛠 Tech Stack
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>01 · Smart City Report</h3>
+<p><sub>EDGE AI · MOBILE APPLICATION</sub></p>
+<p>On-device urban issue classification in a Flutter reporting app, supported by an image-model training pipeline and a reproducible Docker environment.</p>
+<p><code>Flutter</code> <code>ONNX</code> <code>Docker</code></p>
+<p><a href="https://github.com/SeedFlora/smartCityReport"><strong>Explore repository →</strong></a></p>
+</td>
+<td width="50%" valign="top">
+<h3>02 · Sentiment-Aware Forecasting</h3>
+<p><sub>NLP · TIME-SERIES · ANALYTICS</sub></p>
+<p>A BBCA forecasting research pipeline combining price data, macroeconomic indicators, and news sentiment, with model comparisons and an analytics dashboard.</p>
+<p><code>Python</code> <code>LSTM</code> <code>Docker</code></p>
+<p><a href="https://github.com/SeedFlora/sentiment-BBCA-saham-predictor"><strong>Explore repository →</strong></a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>03 · Indonesian Herbal Plants</h3>
+<p><sub>COMPUTER VISION · MODEL BENCHMARKING</sub></p>
+<p>Image classification research comparing CNN, deformable convolution, and hybrid attention architectures across 31 Indonesian herbal plant classes.</p>
+<p><code>Deep Learning</code> <code>Classification</code></p>
+<p><a href="https://github.com/SeedFlora/klasifikasiTanamanHerbal"><strong>Explore repository →</strong></a></p>
+</td>
+<td width="50%" valign="top">
+<h3>04 · Indonesian Batik Recognition</h3>
+<p><sub>COMPUTER VISION · CULTURAL HERITAGE</sub></p>
+<p>A batik image dataset, experiment notebooks, and a GUI for exploring image classification with CNN, Vision Transformer, and YOLO models.</p>
+<p><code>CNN</code> <code>ViT</code> <code>YOLO</code></p>
+<p><a href="https://github.com/SeedFlora/klasifikasiBatik"><strong>Explore repository →</strong></a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>05 · MixMatcher</h3>
+<p><sub>RECOMMENDATION SYSTEMS · FULL-STACK</sub></p>
+<p>Ingredient-aware recipe recommendations using weighted content-based matching, delivered through a full-stack Next.js application.</p>
+<p><code>Next.js</code> <code>Recommendation</code> <code>Vercel</code></p>
+<p><a href="https://github.com/SeedFlora/cocktail-recommendation"><strong>Explore repository →</strong></a> &nbsp;·&nbsp; <a href="https://mixmatcher-iba.vercel.app">Open app ↗</a></p>
+</td>
+<td width="50%" valign="top">
+<h3>06 · Observability Lab</h3>
+<p><sub>CLOUD-NATIVE · MONITORING</sub></p>
+<p>A hands-on learning lab connecting FastAPI metrics to Prometheus and Grafana through Docker Compose, with logging and alerting examples.</p>
+<p><code>FastAPI</code> <code>Prometheus</code> <code>Grafana</code></p>
+<p><a href="https://github.com/SeedFlora/observability-demo"><strong>Explore repository →</strong></a></p>
+</td>
+</tr>
+</table>
+
+<p align="center"><a href="https://github.com/SeedFlora?tab=repositories"><strong>Browse all repositories →</strong></a></p>
+
+## Toolbox
+
+<table>
+<tr>
+<td valign="top"><strong>Languages</strong></td>
+<td>Python · C++ · JavaScript · TypeScript · Go</td>
+</tr>
+<tr>
+<td valign="top"><strong>Machine Learning</strong></td>
+<td>PyTorch · TensorFlow · scikit-learn · Hugging Face · OpenCV · YOLO</td>
+</tr>
+<tr>
+<td valign="top"><strong>Applications &amp; APIs</strong></td>
+<td>FastAPI · Flask · Streamlit · Next.js · Flutter</td>
+</tr>
+<tr>
+<td valign="top"><strong>Data &amp; Infrastructure</strong></td>
+<td>PostgreSQL · MySQL · Linux · Docker · Git · GitHub Actions</td>
+</tr>
+</table>
+
+<p align="center">
+  <img alt="Python, PyTorch, TensorFlow, FastAPI, Docker, PostgreSQL, Linux, and Git" src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,docker,postgres,linux,git&theme=dark&perline=8" />
+</p>
+
+## How I Work
+
+**Define the problem → Audit the data → Build a baseline → Evaluate carefully → Deploy → Iterate**
+
+**Evaluation before claims.** Choose metrics that fit the task, check for data leakage, and compare against meaningful baselines.
+
+**Reproducibility before convenience.** Keep environments, configurations, and experiment artifacts organized so results can be revisited and verified.
+
+**Deployment as part of the design.** Consider inference latency, resource usage, API design, logging, and maintainability—not only model accuracy.
+
+## Teaching & Research
+
+Alongside development, I teach **algorithms, operating systems, and cloud computing**, and supervise student projects connecting AI research with practical software development.
+
+I'm interested in collaborations around **applied computer vision, lightweight inference, NLP, time-series analysis, and reproducible machine learning**.
+
+## Languages
+
+| Language | Proficiency |
+| :--- | :--- |
+| Indonesian | Native |
+| English | Professional working proficiency |
+| Japanese | **JLPT N2 — Passed** |
+
+Interested in **AI/ML engineering opportunities in Japan** and international research collaborations.
+
+## GitHub Activity
+
+<details>
+<summary><strong>View contribution activity</strong></summary>
+
+<br>
+
+<a href="https://github.com/SeedFlora">
+  <img width="100%" alt="SeedFlora's recent GitHub contribution activity" src="https://github-readme-activity-graph.vercel.app/graph?username=SeedFlora&bg_color=0D1117&color=94A3B8&line=22D3EE&point=A78BFA&area=true&hide_border=true&custom_title=Recent%20GitHub%20Activity" />
+</a>
+
+<sub>This chart is provided by a third-party service. Repository links remain available if the chart is temporarily unavailable.</sub>
+
+</details>
+
+## Contact
+
+Have an applied AI problem, a research idea, or an engineering opportunity to discuss?
+
+**Email:** [budi.juarto@gmail.com](mailto:budi.juarto@gmail.com)  
+**Portfolio:** [budijuarto.com](https://budijuarto.com)  
+**GitHub:** [@SeedFlora](https://github.com/SeedFlora)
+
+<br>
 
 <div align="center">
 
-**Languages**  
-<img src="https://skillicons.dev/icons?i=python,cpp,js,ts,go" />
+<strong>Build thoughtfully. Evaluate honestly. Make it reproducible.</strong>
 
-**ML / AI**  
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
-<br/>
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=000000" />
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=ffffff" />
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=ffffff" />
-<img src="https://img.shields.io/badge/YOLOv8-111111?style=flat" />
+<br><br>
 
-**Data / Backend / DevOps**  
-<img src="https://skillicons.dev/icons?i=postgres,mysql,flask,fastapi,linux,docker,git,githubactions" />
-
-</div>
-
----
-
-## 🚀 Featured Projects (Pin these)
-
-> Tip: setelah README jadi, **pin 6 repo** yang paling relevan agar terlihat “industrial”.
-
-- 🔍 **Hybrid Recommender (NCF + SBERT)** — semantic embeddings + collaborative filtering, evaluated with HitRate@K  
-- 🎥 **YOLO Real-time Detection (Edge/TFLite)** — optimized inference for deployment environments  
-- 📈 **Sentiment-driven Forecasting** — IndoBERT sentiment + LSTM time-series integration  
-- 🌐 **ML Dashboard** — Streamlit analytics + Docker packaging  
-- 🐳 **ML Docker Template** — reproducible ML repo template (CI-ready)  
-- ⚙️ **API + Model Serving** — FastAPI/Flask serving with versioned artifacts  
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=SeedFlora&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeedFlora&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=SeedFlora&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=SeedFlora&theme=tokyonight&no-frame=true&row=1&column=6" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SeedFlora&theme=tokyo-night&hide_border=true" />
-
-</div>
-
----
-
-## 🌏 Languages
-
-- 🇮🇩 Indonesian — Native  
-- 🇬🇧 English — Professional  
-- 🇯🇵 Japanese — JLPT N2 (Near Pass)
-
----
-
-## 🧭 Engineering Philosophy
-
-> Accuracy is not enough.  
-> A model must be **reproducible, deployable, and maintainable**.
-
-I design AI systems to survive real-world constraints:
-- inference speed & resource limits  
-- monitoring & debugging readiness  
-- transparent evaluation and iteration  
-
----
-
-## 📫 Contact
-
-- GitHub: https://github.com/SeedFlora  
-- Email: budi.juarto@gmail.com  
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:2f3b70,100:1a1b27&section=footer&text=Research%20%E2%86%92%20Engineering%20%E2%86%92%20Impact&fontColor=ffffff&fontSize=22" />
+<img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:155E75,50:22D3EE,100:A78BFA" />
 
 </div>
